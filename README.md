@@ -16,18 +16,15 @@ that uses [Lavalink](https://github.com/davidffa/lavalink) for its music functio
 <!-- GETTING STARTED -->
 ## Getting started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-      * npm
-      * nodejs
+This is a list of things you need to use to ensure an excellent experience.
+- npm
+- nodejs
 
 ### Installation
 
-_Below is an example of how you can probably do the installing and setting up the app.._
+_Below is a step-by-step of how you can do the installing and setting up the app.._
 
 1. Clone the repo
    ```sh
