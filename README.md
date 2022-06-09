@@ -11,7 +11,6 @@ that uses [Lavalink](https://github.com/davidffa/lavalink) for its music functio
   - [ ] Controls
   - [ ] Multiple Sources
 - [ ] Handlers
-  - [ ] Server Config Caching (prefixes, for reliability)
   - [ ] Interactions (aka slash commands)
   - [ ] Client and Lavalink Events
   - [ ] Prefix Assignation
