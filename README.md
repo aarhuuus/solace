@@ -49,3 +49,7 @@ _Below is a step-by-step of how you can do the installing and setting up the app
 4. Replace all the default settings in `config.js`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- SOLACE AS A PUBLIC BOT -->
+## Solace as a public bot (SaaPB)
+Unfortunately, Solace is not gonna end up being a public Discord Bot as it is a side project we made for fun.
